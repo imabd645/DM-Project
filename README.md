@@ -14,8 +14,8 @@ A terminal-based visualization tool that compares three pathfinding algorithms (
 Requires Python 3.6 or higher.
 
 ```bash
-git clone https://github.com/yourusername/maze-solver-visualizer.git
-cd maze-solver-visualizer
+git clone https://github.com/imabd645/DM-Project.git
+cd DM-Project
 python maze_solver.py
 ```
 
