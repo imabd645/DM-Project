@@ -1,4 +1,4 @@
-# Pathfinding Algorithm Visualizer
+# Maaz Generator and Algorithm Visualizer
 
 A terminal-based visualization tool that compares three pathfinding algorithms (DFS, BFS, and A*) solving randomly generated mazes in real-time.
 
